@@ -282,8 +282,8 @@ span{
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border-top: .4rem solid rgb(243, 23, 23);
-    border-bottom: .4rem solid rgb(243, 23, 23);
+    border-top: .4rem solid rgb(238, 237, 219);
+    border-bottom: .4rem solid rgb(238, 237, 219);
     border-left: .2rem solid var();
     border-right: .2rem solid var();
     animation: aboutSpinner 8s linear infinite;
